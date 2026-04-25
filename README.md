@@ -43,10 +43,9 @@ Get your free Project ID at [apstal.com](https://apstal.com).
 | Platform | How to install |
 |----------|----------------|
 | **Any website** | Script tag (see above) |
-| **WordPress** | [Apstal AI Chatbot plugin](https://wordpress.org/plugins/apstal-ai-chatbot/) |
-| **Shopify** | [Apstal on Shopify App Store](https://apps.shopify.com/apstal) |
-| **Wix** | [Apstal on Wix App Market](https://www.wix.com/app-market/apstal) |
-| **Framer** | Paste the script tag in Custom Code settings |
+| **Framer** | [Apstal Analytics plugin](https://www.framer.com/marketplace/plugins/apstal-analytics/) |
+| **WordPress** | Plugin available in the WordPress directory |
+| **Shopify** | Install from the Shopify App Store |
 | **Webflow** | Paste the script tag in Project Settings → Custom Code |
 
 ## Features
@@ -84,7 +83,7 @@ Read the full [Privacy Policy](https://apstal.com/privacy).
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+AGPL-3.0 — see [LICENSE](LICENSE) for details.
 
 ---
 
