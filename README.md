@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Logo.jpg" width="80" alt="Apstal" />
+  <img src="./Logo.webp" width="80" alt="Apstal" />
 </p>
 
 <h1 align="center">Apstal</h1>
