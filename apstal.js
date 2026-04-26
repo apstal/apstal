@@ -1,6 +1,6 @@
 // Apstal Analytics Tracker (Open Source)
 // https://github.com/ApstalAI/apstal
-// Copyright (c) 2024-2026 Apstal. MIT License.
+// Copyright (c) 2025-2026 Apstal. AGPL-3.0 License.
 import * as rrweb from "rrweb";
 import { gzipSync, strToU8 } from "fflate";
 (function() {
