@@ -55,10 +55,10 @@ Ask questions about your analytics in natural language. Type or speak. Apstal re
 Watch how visitors interact with your site. See every click, scroll, and rage click without installing additional tools.
 
 **Cookieless Tracking**
-No cookies, no consent banners, no GDPR headaches. Apstal is privacy-first by design.
+No cookies, no consent banners, no GDPR headaches. Apstal is privacy-first.
 
 **One Script, Everything Included**
-Analytics, session replay, AI chatbot, and heatmaps in a single lightweight script (~37KB gzipped).
+Analytics, session replay, AI agent, and heatmaps in a single lightweight script.
 
 ## How It Works
 
