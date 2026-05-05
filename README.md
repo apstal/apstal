@@ -5,8 +5,8 @@
 <h1 align="center">Apstal</h1>
 
 <p align="center">
-  AI chatbot that answers questions about your website traffic.<br/>
-  Ask anything. Get instant insights. No dashboards needed.
+  AI Agent that answers questions about your website traffic.<br/>
+  Ask anything. Get instant insights.
 </p>
 
 <p align="center">
@@ -20,13 +20,11 @@
 
 ## What is Apstal?
 
-Apstal is a website analytics platform with a built-in AI chatbot. Instead of reading charts and dashboards, you just ask questions like:
+Apstal is a website analytics platform with a built-in AI agent. Instead of reading charts and dashboards, you just ask questions like:
 
 - *"Where do my visitors come from?"*
 - *"Which page has the highest bounce rate?"*
 - *"How many sales did I get this week?"*
-
-Apstal tracks your visitors, records session replays, and lets you talk to your data using text or voice.
 
 ## Quick Start
 
